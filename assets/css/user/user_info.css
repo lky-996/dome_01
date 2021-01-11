@@ -1,0 +1,16 @@
+        body {
+            background-color: #f2f3f5;
+        }
+        
+        .layui-card {
+            background-color: #ffffffff;
+            margin: 15px;
+        }
+        
+        .layui-input {
+            width: 350px;
+        }
+        
+        .layui-btn {
+            margin-left: 110px;
+        }

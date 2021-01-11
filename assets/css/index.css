@@ -1,0 +1,55 @@
+.layui-footer {
+    text-align: center;
+    font-size: 12px;
+}
+
+.layui-icon {
+    padding-right: 8px;
+}
+
+.lb {
+    margin-left: 18px;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+.layui-body {
+    overflow: hidden;
+}
+
+.huanying {
+    font-size: 12px;
+    color: #fff;
+    user-select: none;
+}
+
+.l {
+    display: inline-block;
+    width: 33px;
+    height: 33px;
+    font-size: 20px;
+    color: #fff;
+    user-select: none;
+    background-color: #009688;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 35px;
+    position: relative;
+    top: 3px;
+}
+
+a {
+    transition: none !important;
+}
+
+.geren {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.layui-nav-img {
+    margin-left: 20px;
+}
