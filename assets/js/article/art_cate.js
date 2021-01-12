@@ -72,7 +72,7 @@ $('#td').on('click', '#edit', function() {
 })
 $('body').on('submit', '#form-edit', function(e) {
     e.preventDefault();
-    var id = $(this).attr('data-id');
+    // var id = $(this).attr('data-id');
     $.ajax({
         method: 'POST',
         url: '/my/article/updatecate',
