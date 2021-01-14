@@ -8,3 +8,15 @@ body {
     padding: 15px;
     background-color: #f2f3f5;
 }
+
+#form-search {
+    margin-left: 15px;
+}
+
+.layui-card-header {
+    margin-left: 5px;
+}
+
+#pageBox {
+    margin-left: 15px;
+}
